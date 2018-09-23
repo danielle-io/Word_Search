@@ -1,0 +1,91 @@
+dedicate
+devotion
+gave
+men
+not
+people
+resolve
+soldier
+us
+vain
+war
+
+
+
+Please enter a word for the run-time query (to quit program enter "1"): dedicate
+     		    Line Number
+Word 	     Count    & Position
+_______________________________________________
+dedicate            2     9-12   6-10 
+
+
+Please enter a word for the run-time query (to quit program enter "1"): devotion
+     		    Line Number
+Word 	     Count    & Position
+_______________________________________________
+devotion            2     18-6   17-5 
+
+
+Please enter a word for the run-time query (to quit program enter "1"): gave
+     		    Line Number
+Word 	     Count    & Position
+_______________________________________________
+gave	          2     17-13  7-11 
+
+
+Please enter a word for the run-time query (to quit program enter "1"): men
+     		    Line Number
+Word 	     Count    & Position
+_______________________________________________
+men	          2     10-10  3-4  
+
+
+Please enter a word for the run-time query (to quit program enter "1"): not
+     		    Line Number
+Word 	     Count    & Position
+_______________________________________________
+not	          5     21-6   19-4   10-4   9-15   9-11 
+
+
+Please enter a word for the run-time query (to quit program enter "1"): people
+     		    Line Number
+Word 	     Count    & Position
+_______________________________________________
+people	          3     21-4   21-1   20-11
+
+
+Please enter a word for the run-time query (to quit program enter "1"): resolve
+     		    Line Number
+Word 	     Count    & Position
+_______________________________________________
+resolve	          1     18-11
+
+
+Please enter a word for the run-time query (to quit program enter "1"): soldier
+     		    Line Number
+Word 	     Count    & Position
+_______________________________________________
+soldier	      0	0
+
+Please enter a word for the run-time query (to quit program enter "1"): us
+     		    Line Number
+Word 	     Count    & Position
+_______________________________________________
+us	          3     16-8   15-12  13-15
+
+
+Please enter a word for the run-time query (to quit program enter "1"): vain
+     		    Line Number
+Word 	     Count    & Position
+_______________________________________________
+vain	          1     19-8 
+
+
+Please enter a word for the run-time query (to quit program enter "1"): war
+     		    Line Number
+Word 	     Count    & Position
+_______________________________________________
+war	          2     6-5    4-3  
+
+
+Please enter a word for the run-time query (to quit program enter "1"): 1
